@@ -157,21 +157,21 @@
 </layers>
 <board>
 <plain>
-<circle x="24" y="77.46" radius="6.25" width="0.4064" layer="20"/>
-<hole x="24" y="36" drill="6.1"/>
-<hole x="24" y="24" drill="6.1"/>
-<hole x="24" y="48" drill="6.1"/>
-<text x="8.89" y="91.44" size="3.81" layer="1" font="vector" ratio="10" rot="SR270">Transition</text>
-<text x="36.83" y="86.36" size="3.81" layer="1" font="vector" ratio="10" rot="SR270">Scene</text>
-<text x="34.29" y="50.8" size="1.778" layer="1" font="vector" ratio="10" rot="SR270">Cut</text>
-<text x="12.7" y="52.07" size="1.778" layer="1" font="vector" ratio="10" rot="SR270">Fade</text>
-<text x="31.75" y="39.37" size="1.778" layer="1" font="vector" ratio="10" rot="SR270">Scene
+<circle x="24" y="77.46" radius="6.4" width="0.4064" layer="20"/>
+<hole x="24" y="36" drill="6.2"/>
+<hole x="24" y="24" drill="6.2"/>
+<hole x="24" y="48" drill="6.2"/>
+<text x="8.89" y="91.44" size="3.81" layer="21" font="vector" ratio="15" rot="SR270">Transition</text>
+<text x="36.83" y="86.36" size="3.81" layer="21" font="vector" ratio="15" rot="SR270">Scene</text>
+<text x="34.29" y="50.8" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">Cut</text>
+<text x="12.7" y="52.07" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">Fade</text>
+<text x="31.75" y="39.37" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">Scene
   1</text>
-<text x="31.75" y="27.94" size="1.778" layer="1" font="vector" ratio="10" rot="SR270">Scene
+<text x="31.75" y="27.94" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">Scene
   3</text>
-<text x="12.7" y="39.37" size="1.778" layer="1" font="vector" ratio="10" rot="SR270">  2
+<text x="12.7" y="39.37" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">  2
 Scene</text>
-<text x="12.7" y="27.94" size="1.778" layer="1" font="vector" ratio="10" rot="SR270">  4
+<text x="12.7" y="27.94" size="1.778" layer="21" font="vector" ratio="15" rot="SR270">  4
 Scene</text>
 <hole x="40.64" y="48.26" drill="5"/>
 <hole x="8.89" y="48.26" drill="5"/>
